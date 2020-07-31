@@ -1,2 +1,2 @@
 # AI-Artist
-An Artificial Intelligence using convolutional neural networks to transfer the style of any artist to a selected image.
+A deep learning application using convolutional neural networks to compose images in the styles of various artists.
